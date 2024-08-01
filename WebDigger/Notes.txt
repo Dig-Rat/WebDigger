@@ -1,0 +1,56 @@
+﻿This is for random notes and related documentation links.
+
+4cdn Json API
+https://github.com/4chan/4chan-API
+https://github.com/4chan/4chan-API/tree/master/pages
+https://github.com/4chan/4chan-API/blob/master/pages/User_images_and_static_content.md
+
+HttpClient
+https://learn.microsoft.com/en-us/dotnet/fundamentals/networking/http/httpclient-guidelines
+https://learn.microsoft.com/en-us/dotnet/fundamentals/runtime-libraries/system-net-http-httpclient
+https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/core/extensions/httpclient-factory#typed-clients
+
+Tasks / Async / Threading
+https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/
+https://learn.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming
+https://learn.microsoft.com/en-us/dotnet/api/system.threading.tasks.task.start?view=net-8.0
+https://learn.microsoft.com/en-us/dotnet/api/system.net.http.ihttpclientfactory?view=dotnet-plat-ext-8.0
+
+Hiearchy
+Boards
+Catalog / ThreadList / Index(page of board)
+Threads
+
+
+
+OLD
+
+// https://en.wikipedia.org/wiki/MD5
+        // https://en.wikipedia.org/wiki/Unix_time
+        // https://en.wikipedia.org/wiki/Imageboard#Tripcodes
+        // https://brushwarriors.com/what-is-oekaki/
+        // https://en.wikipedia.org/wiki/UTF-8
+        // https://en.wikipedia.org/wiki/Shift_JIS
+        // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/If-Modified-Since
+        // Json .net core 3.1
+        // https://docs.microsoft.com/en-us/dotnet/api/system.text.json?view=netcore-3.1
+        // Json Serializer
+        // https://docs.microsoft.com/en-us/dotnet/api/system.text.json.jsonserializer.deserialize?view=netcore-3.1
+        //
+        // https://github.com/4chan/4chan-API
+
+            // f12 - accessability -> right click -> Json
+            // https://a.4cdn.org/pol/catalog.json
+
+            // https://learn.microsoft.com/en-us/dotnet/standard/serialization/
+            // https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/how-to?pivots=dotnet-core-3-1
+            // https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/use-dom-utf8jsonreader-utf8jsonwriter?pivots=dotnet-core-3-1
+            // https://learn.microsoft.com/en-us/dotnet/api/system.text.json?view=net-7.0
+
+            // https://stackoverflow.com/questions/60636632/grabbing-the-value-of-a-returned-json-string-c-sharp
+
+            // https://zetcode.com/csharp/json/
+
+
+//End

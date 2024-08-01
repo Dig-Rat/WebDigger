@@ -1,0 +1,14 @@
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\net8.0\WebDigger.exe
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\net8.0\WebDigger.deps.json
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\net8.0\WebDigger.runtimeconfig.json
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\net8.0\WebDigger.dll
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\net8.0\WebDigger.pdb
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.AssemblyInfoInputs.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.AssemblyInfo.cs
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.csproj.CoreCompileInputs.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.dll
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\refint\WebDigger.dll
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.pdb
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\WebDigger.genruntimeconfig.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\net8.0\ref\WebDigger.dll

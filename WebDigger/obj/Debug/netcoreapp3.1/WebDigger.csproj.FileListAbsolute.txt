@@ -1,0 +1,16 @@
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.AssemblyInfoInputs.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.AssemblyInfo.cs
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.csproj.CoreCompileInputs.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\WebDigger.exe
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\WebDigger.deps.json
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\WebDigger.runtimeconfig.json
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\WebDigger.runtimeconfig.dev.json
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\WebDigger.dll
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\WebDigger.pdb
+C:\Users\tomei\source\repos\WebDigger\WebDigger\bin\Debug\netcoreapp3.1\HtmlAgilityPack.NetCore.dll
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.dll
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.pdb
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.genruntimeconfig.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.csproj.AssemblyReference.cache
+C:\Users\tomei\source\repos\WebDigger\WebDigger\obj\Debug\netcoreapp3.1\WebDigger.csproj.Up2Date

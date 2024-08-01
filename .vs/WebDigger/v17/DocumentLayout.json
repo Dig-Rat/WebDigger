@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomei\\source\\repos\\WebDigger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|c:\\users\\tomei\\source\\repos\\webdigger\\webdigger\\diglet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|solutionrelative:webdigger\\diglet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|c:\\users\\tomei\\source\\repos\\webdigger\\webdigger\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|solutionrelative:webdigger\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|c:\\users\\tomei\\source\\repos\\webdigger\\webdigger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|solutionrelative:webdigger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|c:\\users\\tomei\\source\\repos\\webdigger\\webdigger\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FA9BA22A-F132-4885-A9C6-9274B4746736}|WebDigger\\WebDigger.csproj|solutionrelative:webdigger\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Program.cs",
+              "RelativeDocumentMoniker": "WebDigger\\Program.cs",
+              "ToolTip": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Program.cs",
+              "RelativeToolTip": "WebDigger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T21:53:52.079Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\ApiService.cs",
+              "RelativeDocumentMoniker": "WebDigger\\ApiService.cs",
+              "ToolTip": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\ApiService.cs",
+              "RelativeToolTip": "WebDigger\\ApiService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:58:27.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diglet.cs",
+              "DocumentMoniker": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Diglet.cs",
+              "RelativeDocumentMoniker": "WebDigger\\Diglet.cs",
+              "ToolTip": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Diglet.cs",
+              "RelativeToolTip": "WebDigger\\Diglet.cs",
+              "ViewState": "AQIAAEMBAAAAAAAAAAAYwFQBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T01:40:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Notes.txt",
+              "RelativeDocumentMoniker": "WebDigger\\Notes.txt",
+              "ToolTip": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Notes.txt",
+              "RelativeToolTip": "WebDigger\\Notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-13T01:36:51.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
