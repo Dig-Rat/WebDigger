@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -39,8 +39,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T21:53:52.079Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -56,8 +59,7 @@
               "RelativeToolTip": "WebDigger\\ApiService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T01:58:27.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T01:58:27.888Z"
             },
             {
               "$type": "Document",
@@ -67,7 +69,7 @@
               "RelativeDocumentMoniker": "WebDigger\\Diglet.cs",
               "ToolTip": "C:\\Users\\tomei\\source\\repos\\WebDigger\\WebDigger\\Diglet.cs",
               "RelativeToolTip": "WebDigger\\Diglet.cs",
-              "ViewState": "AQIAAEMBAAAAAAAAAAAYwFQBAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQBAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T01:40:08.528Z",
               "EditorCaption": ""
